@@ -27,6 +27,8 @@ views:
       - categories
       - tags
     sort:
+      - property: file.name
+        direction: DESC
       - property: tags
         direction: ASC
       - property: created
