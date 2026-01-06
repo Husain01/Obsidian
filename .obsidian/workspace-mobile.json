@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checking.md",
+                "file": "Write the current state of AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checking"
+              "title": "Write the current state of AI"
             }
           }
         ]
@@ -149,6 +149,6 @@
     "Daily/2026-01-03.md",
     "Daily/2026-01-02.md",
     "chat with repo.md",
-    "Checking.md"
+    "Write the current state of AI.md"
   ]
 }

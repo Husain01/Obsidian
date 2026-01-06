@@ -1,0 +1,2 @@
+So write about how AI has speedrun a lot of developer's learning cycle is it good or bad we still don't know. For example why do we need libraries anymore? Isn't it better to write raw core languages then? And if that's the case will debugging be an issue when AI fails? 
+Also what about the scale of the repo and the structuring and everything? Currently on smaller projects since it works it's fine, we overlook on what's coded and see if the final output is working or not, but this can't scale can it? When there are multiple teams and a huge codebase like Google or Meta.
