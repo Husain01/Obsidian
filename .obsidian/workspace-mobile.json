@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Technical books"
             }
+          },
+          {
+            "id": "ca4277c0993e6314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dubai Business association.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dubai Business association"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,8 +187,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "11df5f4342c89624",
+  "active": "ca4277c0993e6314",
   "lastOpenFiles": [
+    "Dubai Business association.md",
     "Technical books.md",
     "Download via Torrents.md",
     "Write the current state of AI.md",
