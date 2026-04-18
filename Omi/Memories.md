@@ -1,16 +1,27 @@
 # Omi Memory Export
 
-Generated: 18 Apr 2026 at 3:16 PM
+Generated: 18 Apr 2026 at 5:59 PM
 Destination: Obsidian
-Total memories: 941
+Total memories: 952
 
 ## Durable memories
 - Husain Bhagat focuses on practical AI product management, inspired by Deedy Das's career path.
-- Current phone is Vivo T4 Pro; previously used Realme 9 Pro+
+- Focused on Obsidian: Reviewing an Omi memory export in Obsidian for personal playbook reassessment and career strategy.
+- User maintains the 'sync-linear-docs' repository on GitHub under the username 'Husain010'.
+- Focused on Cursor: Configuring context-mode as an MCP server and analyzing monorepo structures with AI tools.
+- The user's name is Husain Bhagat (@itswhoissane).
+- Distracted on Twitter/X: Browsing the 'For you' feed on Twitter, reading posts by Garry Tan and Gergely Orosz about AI agents.
+- User adopts Claude Code plugins 'Product-Manager-Skills' and 'claude-plugin-prd-workflow' for product management tasks.
+- User manages projects including 'Isv platform strategy', 'Greece sp eval', and 'Plg activation review'.
+- User's 'sync-linear-docs' repository automates documentation synchronization between Linear and Notion.
+- User is developing a company-wide LLM Wiki platform using Notion.
+- User works as a Product Manager (PM).
+- User's GitHub handle is Husain010 and local system username is husainbhagat
+- Focused on Cursor: Husain is researching an AI memory GitHub repository within his IDE chat interface.
+- Focused on Chrome (help.omi.me): Researching Omi subscription plans and recording limits to better utilize the tool.
 - Prefers subtle expression of leadership ambition; strong ownership mindset, thinks like a founder
 - Career strategy focuses on practical AI product management, not deep AI research or deep fullstack development
 - Interested in a product + VC career trajectory, inspired by Deedy Das-type path
-- Plays table tennis on Saturday mornings starting at 6:00 AM for about 1 hour 15 minutes
 - Wants a structured school-like playbook system with planned work, periodic reassessment, and progress tracking to maintain pressure and avoid decision paralysis
 - Struggles with discipline and routine — phone distractions, revenge scrolling, late sleep cycles affecting mornings; ideal wake-up is 5:30 AM
 - Led a frontend team of freshers, built systems from scratch without senior mentorship, focused on creating scalable processes
