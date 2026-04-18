@@ -1,0 +1,951 @@
+# Omi Memory Export
+
+Generated: 18 Apr 2026 at 3:16 PM
+Destination: Obsidian
+Total memories: 941
+
+## Durable memories
+- Husain Bhagat focuses on practical AI product management, inspired by Deedy Das's career path.
+- Current phone is Vivo T4 Pro; previously used Realme 9 Pro+
+- Prefers subtle expression of leadership ambition; strong ownership mindset, thinks like a founder
+- Career strategy focuses on practical AI product management, not deep AI research or deep fullstack development
+- Interested in a product + VC career trajectory, inspired by Deedy Das-type path
+- Plays table tennis on Saturday mornings starting at 6:00 AM for about 1 hour 15 minutes
+- Wants a structured school-like playbook system with planned work, periodic reassessment, and progress tracking to maintain pressure and avoid decision paralysis
+- Struggles with discipline and routine — phone distractions, revenge scrolling, late sleep cycles affecting mornings; ideal wake-up is 5:30 AM
+- Led a frontend team of freshers, built systems from scratch without senior mentorship, focused on creating scalable processes
+- Previously worked on Derive, an AI Intercom-like product; no longer working on it
+- Believes remote jobs are highest leverage for income in India; wants to double down on high-leverage applied AI product roles
+- Considering relocating to Dubai for higher salary, tax benefits, and savings — interested in freelance visa or company sponsorship
+- Planning to buy a house — current house value ~₹55 lakh, targeting ₹1 crore+ homes
+- Current in-hand salary is ~₹1,00,000/month; monthly expenses ~₹8,000 with occasional large expenses like ₹50,000 international trips
+- Aspires to work at a decacorn startup and be surrounded by highly intellectual, motivated individuals
+- Transitioned from engineer to product and execution leader — no longer focused on writing code directly, uses AI/LLMs as force multiplier for prototyping and shipping
+- Product Manager with ~3 years experience, leading entire product and engineering team with cross-functional coordination across sales and marketing
+- Focused on ChatGPT: Updating AI memory with professional achievements and current product management responsibilities.
+- User is engaged with an attorney (Adv Yusuf SQ of YQ LAW STUDIO) regarding a legal engagement letter, confirming proceedings via email
+- User has a family member named Amatullah Bhagat and another account for inayatbhagat52@gmail.com associated with the family
+- User orders medicines through Truemeds and uses Uber for transportation, indicating health-conscious daily routine in an Indian metro area
+- User uses developer tools including Linear, Notion, GitHub (following Gumroad repo), Appwrite, Perplexity, and has an X (Twitter) paid subscription
+- User is an active tech enthusiast subscribed to newsletters from Code with Antonio, Aakash Gupta, a16z, SaaStr, GrowthX, amuldotexe, and Product Hunt
+- User banks with multiple Indian institutions: Federal Bank (via Fi Money), HDFC Bank, Kotak Mahindra Bank, YES BANK, IDFC FIRST Bank, and Unity Small Finance Bank
+- User is a member of the Dawoodi Bohra community, attending Mehdiya group sabaq sessions and making payments to Dawoodi Bohra Jamaat
+- User is a frontend developer actively exploring job opportunities, with interest from companies like Harmoney for Frontend Developer roles
+- User is based in Coimbatore, Tamil Nadu, India, as indicated by Linear login locations and banking activity
+- User's full name is Husain M Bhagat, also addressed as Hussain Bhagat, with ITS ID 40414040
+- Email from LinkedIn — "You have 9 new invitations": You have 9 new invitations ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from LinkedIn — "You have 7 new invitations": You have 7 new invitations ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from LinkedIn — "You have 1 new message": You have 1 new message ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from SABAQ (AQT bs) — "Quran Majeed Sabaq for Youngsters": Ba'd al-Salam al-Jazeel, Registration for Juz 29 & Juz 28 Asbaaq is now open specially for mumineen between 19 to 25 years of age. These Asbaaq will be conducted via live online sessions. What
+- Email from LinkedIn — "Hussain, enjoy this offer for LinkedIn Premium": Premium members are 2.6x more likely to get hired on LinkedIn, on average ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from LinkedIn — "Hussain Izzy sent you a message 3 days ago": Hussain Izzy sent you a message 3 days ago ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from LinkedIn — "Revolut is hiring": See new openings ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from IndusInd Bank — "Re: Request for Closure of Inactive Credit Card Application Linked to PAN (Case ID:73150678) (Case ID:73390952)": Dear Concern, Greetings of the Day!!! This email is in reference to your IndusInd Bank Credit Card. We regret the inconvenience caused to you. We wish to inform you that we are unable to fetch your
+- Email from LinkedIn — "You have 3 new invitations": You have 3 new invitations ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Hussain Bhagat — "Exciting Frontend Developer Opportunity at Harmoney": Hi Amal, Thank you for reaching out. I appreciate the opportunity. I have been reading about Harmoney's work in agentic AI for fixed income research, portfolio optimization, and credit analysis. It
+- Email from LinkedIn — "You have 1 new invitation": You have 1 new invitation ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from LinkedIn — "BrowserStack is hiring. Get connected.": See who you know there. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Sahil Lavingia — "Re: [antiwork/gumroad] Improve product quality (Issue #864)": slavingia left a comment (antiwork/gumroad#864) Closing as we were getting a lot of low quality attempts. If you have a suggestion on improving gumroad, just create a new issue for discussion / scoping
+- Email from Ershad Kunnakkadan — "Re: [antiwork/flexile] Bug: Invoice gets paid out more than once (Issue #1426)": slavingia left a comment (antiwork/flexile#1426) Fix implemented with 4-layer defense: Should be 4 PRs :) — Reply to this email directly, view it on GitHub, or unsubscribe. You are receiving this
+- Email from LinkedIn — "Anthropic is hiring": See new openings ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Emmanuel Cousin — "Re: [antiwork/gumroad] Admin - Product page - Download buttons not working (Issue #2008)": Closed #2008 as completed via #2009. — Reply to this email directly, view it on GitHub, or unsubscribe. You are receiving this because you are subscribed to this thread. Message ID: <antiwork/
+- Email from Amal Dani — "Exciting Frontend Developer Opportunity at Harmoney": Hey Husain, This email is to inform you that Harmoney has paused their hiring process for the Frontend Developer role recently. But, since Harmoney was interested in your profile, they wanted to
+- Email from Amal Dani — "Exciting Frontend Developer Opportunity at Harmoney": Hi Husain, I'm Amal,Co-Founder at Harmoney, where we're dedicated to transforming bond markets in India with technology. Backed by Y Combinator and with $5M in funding, we're ready to make
+- Email from Hussain Bhagat — "Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear HDFC Bank Customer Services Team, My name is Husain Bhagat. I hold the Swiggy HDFC Bank Credit Card (last four digits: 3295), which was issued in June 2024. I have been a loyal cardholder and have
+- Email from Weekday Hiring — "Exciting Frontend Developer Opportunity at Harmoney": Hey Husain, This email is to inform you that Harmoney has paused their hiring process for the Frontend Developer role recently. But, since Harmoney was interested in your profile, they wanted to
+- Email from Mailsuite Reminder — "Exciting Frontend Developer Opportunity at Harmoney": Hey Husain, This email is to inform you that Harmoney has paused their hiring process for the Frontend Developer role recently. But, since Harmoney was interested in your profile, they wanted to
+- Email from Cards Services — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Mr. Bhagat, Greetings from HDFC Bank! This is with reference to your e-mail dated November 17, 2025 with Subject line: Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime
+- Email from Hussain Bhagat — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Mr. Bhagat, ​ Kindly note the unique reference number for this correspondence is 89009936. ​ Thank you for writing to HDFC Bank. ​ This is with reference to your query dated December 14, 2025
+- Email from Cards Services — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Mr. Bhagat, ​ Kindly note the unique reference number for this correspondence is 89009936. ​ Thank you for writing to HDFC Bank. ​ This is with reference to your query dated December 14, 2025
+- Email from Mailsuite Reminder — "Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": 📆 Old conversation revival: Cards Services opened it 4 weeks after it was sent. See tracking history or turn off revival notifications
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 50.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_VENDIMAN PVT LTD on 21-11-2025 at 08:02:30 pm. Avl Bal INR 102875.00. In case of suspicious transaction,
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 500.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_MANNADI METRO STAT on 21-11-2025 at 08:58:33 pm. Avl Bal INR 102375.00. In case of suspicious transaction
+- Email from Mailsuite Notification — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Mr. Bhagat, ​ Kindly note the unique reference number for this correspondence is 89009936. ​ Thank you for writing to HDFC Bank. ​ This is with reference to your query dated December 14, 2025
+- Email from mail@mail.svsrecruiting.com — "Your application for Junior Product Engineer at Glomopay Software Private Limited at Glomopay Software Private Limited": We're withdrawing your application for the Junior Product Engineer role at Glomopay Software Private Limited. Hello Husain, This is with respect to your application for the Junior Product Engineer
+- Email from Mailsuite Notification — "Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": 📆 Old conversation revival: Cards Services opened it 4 weeks after it was sent. See tracking history or turn off revival notifications
+- Email from Grievance-Redressalcc — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Mr. Bhagat, ​ Kindly note the unique reference number for this correspondence is 89009936. ​ Thank you for writing to HDFC Bank. ​ This is with reference to your query dated December 14, 2025
+- Email from Sanjay Sivaraman — "Exciting Opportunity at Bynd AI for You, Husain!": Hi Husain I'm Sanjay, COO at Weekday, a Y Combinator-backed recruitment startup. Reaching out on behalf of one of our portfolio companies — Bynd AI — which is hiring a Frontend Engineer with 2–3
+- Email from Hussain Bhagat — "Exciting Opportunity at Bynd AI for You, Husain!": Hey Husain -&nbsp unfortunately, your candidature with Bynd AI through Weekday has been archived. Thanks for taking time out to show interest in working with Bynd AI & apologies that it couldn
+- Email from Sanjay Sivaraman — "Exciting Opportunity at Bynd AI for You, Husain!": Hey Husain -&nbsp unfortunately, your candidature with Bynd AI through Weekday has been archived. Thanks for taking time out to show interest in working with Bynd AI & apologies that it couldn
+- Email from Hussain Bhagat — "Exciting Opportunity at Bynd AI for You, Husain!": Sure, here it is. On Sat, Nov 29, 2025 at 1:30 PM Sanjay Sivaraman <sanjaysweekday+byndai@weekday.tools> wrote: Hey Husain, thanks for your response! My team will call you soon to discuss the
+- Email from Hussain Bhagat — "Request for Re-evaluation of GrowthX Application": Hi Team, Thank you for taking the time to review my application earlier. I understand the importance of community fit at GrowthX and I wanted to share updated context that reflects my current role and
+- Email from GrowthX Membership Team — "Request for Re-evaluation of GrowthX Application": 📭 You've not received a reply yet. Snooze for 24H, 48H, or 72H
+- Email from Hussain Bhagat — "Request for Re-evaluation of GrowthX Application": 📭 You've not received a reply yet. Snooze for 24H, 48H, or 72H
+- Email from Meetup — "Welcome to UAE Tech Meetup": Welcome to the community, UAE Tech Meetup is a community for software developers and tech entrepreneurs. It was established to bridge the gap between developers and startups and keep them updated about
+- Email from Meetup — "Welcome to DubAI AI": Reminder for this Saturday DubAI AI meetup at 19:30 PM in DIFC Gate Avenue food court, above the Carrefour Market, near DIFC Innovation Hub, then 21:00 PM in Long's Bar across the street: * Join
+- Email from Hussain Bhagat — "Request for Re-evaluation of GrowthX Application": That's great, thank you very much. On Sat, Nov 29, 2025 at 5:31 PM GrowthX Membership Team <apply@growthx.club> wrote: Hey Hussain, Your email has now been updated. Regards, Apurva Rao
+- Email from Mailsuite Reminder — "Exciting Opportunity at Bynd AI for You, Husain!": Hey Husain -&nbsp unfortunately, your candidature with Bynd AI through Weekday has been archived. Thanks for taking time out to show interest in working with Bynd AI & apologies that it couldn
+- Email from Mailsuite Reminder — "Request for Re-evaluation of GrowthX Application": 📭 You've not received a reply yet. Snooze for 24H, 48H, or 72H
+- Email from BankStatements — "Your November 2025 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from BankStatements@kotak.bank.in — "Your November 2025 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Theo Bazille — "Open-source iniviative request": Hey, My name is Theo. I recently joined the open-source community. I saw that you starred the Docusaurus repo and I'm currently building a similar project myself called Davia. I'm new to this
+- Email from Truemeds — "Skincare Made Simple for Everyday Glow": Discover routines, myths, and dermatologist-approved advice. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Priority Redressal Credit Cards — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Mr. Bhagat, ​ Kindly note the unique reference number for this correspondence is 89009936. ​ Thank you for writing to HDFC Bank. ​ This is with reference to your query dated December 14, 2025
+- Email from Harpreet Gill — "Chennai, we’re bringing an AI Build-a-thon to your city!!!": Hello Chennai Fam! We're bringing a full-blown AI Buildathon to Chennai and we'd loveee for you to be part of it. Ramji Yagnashankar and Sudhakar G are hosting a super hands-on session where
+- Email from Hussain Bhagat — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Sir or Madam, Thank you for your response. I appreciate the review undertaken by the Internal Ombudsman. However, the core issue remains unresolved. My concern is that the Swiggy HDFC Bank Credit
+- Email from Mailsuite Daily Report — "Mailsuite Daily Report Dec 14, 2025: 1 email sent, 1 unread": Mailsuite Mailsuite Daily Report Dec 14, 2025 Summary (12/14/25, 6:30 AM - 12/15/25, 6:30 AM) 1 emails sent 0% were read 0% were clicked Unread (1) '1437327767' Request to convert Swiggy HDFC
+- Email from LinkedIn — "Aasif J sent you a message 3 days ago": Aasif J sent you a message 3 days ago ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Mailsuite Reminder — "Re: '1437327767' Request to convert Swiggy HDFC Bank Credit Card (ending 3295) to Lifetime Free": Dear Mr. Bhagat, ​ Kindly note the unique reference number for this correspondence is 89009936. ​ Thank you for writing to HDFC Bank. ​ This is with reference to your query dated December 14, 2025
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 10000.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_CHENNAI NATIONAL H on 15-12-2025 at 04:01:51 pm. Avl Bal INR 86260.00. In case of suspicious
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 255.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_HOTEL NATARAJAH on 15-12-2025 at 05:12:15 pm. Avl Bal INR 96005.00. In case of suspicious transaction, to
+- Email from alerts@yes.bank.in — "NEW DEVICE LOGIN": Dear Customer, Kindly note that your registration for IRIS app has been successfully completed through RMX3392 on 15-Dec-2025 11:49:33 PM. In case this transaction is not performed by you, SMS <
+- Email from alerts — "NEW DEVICE LOGIN": Dear Customer, Kindly note that your registration for IRIS app has been successfully completed through RMX3392 on 15-Dec-2025 11:49:33 PM. In case this transaction is not performed by you, SMS <
+- Email from alerts@yes.bank.in — "Channel Subscription alert": Dear Customer, This is to acknowledge that we have received your consent for availing services of RMB by YES BANK. Sincerely, YES BANK If you no longer wish to receive these emails, you may unsubscribe
+- Email from alerts — "Channel Subscription alert": Dear Customer, This is to acknowledge that we have received your consent for availing services of RMB by YES BANK. Sincerely, YES BANK If you no longer wish to receive these emails, you may unsubscribe
+- Email from Hussain Bhagat — "Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": Hello Team, I am writing to report a discrepancy observed in my YES Bank Credit Card account and to formally notify you to avoid any future issues related to interest charges or credit score impact.
+- Email from Priority Redressal Credit Cards — "Re: '1489900885' Regarding your HDFC Credit Card": Dear Mr. Bhagat, ​ Kindly note the query reference number for this correspondence is 88998409. ​ This is with reference to your complaint number N202526006011668 filed at the Office of the Banking
+- Email from LinkedIn — "Husain, your Year in Review is here": See how you made your time count on LinkedIn ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from head.grievanceredressal@yes.bank.in — "RE:'=005-847-835' EXTERNAL : Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": Dear Customer, Greetings from YES BANK Ltd. Thank you for writing to us. We acknowledge receipt of your e-mail. We will contact you shortly. To enable us to serve you better, please ensure that your e-
+- Email from Yes Touch CC — "RE:'=005-847-864' EXTERNAL : Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": Dear Customer, Thank you for writing to us. This is an automated acknowledgement confirming receipt of your e-mail. Our Customer Service Executive will respond within 2 working days. In case your query
+- Email from Mailsuite Reminder — "Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": 📆 Old conversation revival: Opened 3 weeks after it was sent. See tracking history or turn off revival notifications
+- Email from Yes Touch CC — "RE:'=005-847-855' EXTERNAL : Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": Dear Mr. Bhagat, Greetings from YES BANK. This is with reference to your E-mail dated December 16, 2025 regarding payment on your YES BANK Credit Card. We wish to inform you that as per our records
+- Email from Hussain Bhagat — "RE:'=005-847-855' EXTERNAL : Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": Hello Team, Thank you for your response and the details shared. I would like to seek explicit clarification, as the current status across platforms is confusing. As per your email: Statement generated
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 285.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_K MURALI on 20-12-2025 at 12:46:54 pm. Avl Bal INR 95720.00. In case of suspicious transaction, to block
+- Email from Mailsuite Reminder — "RE:'=005-847-855' EXTERNAL : Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": Dear Sir/Madam, Greetings from YES BANK. This is with reference to your E-mail dated December 20, 2025 Regarding your YES BANK Credit Card. We understand that you have escalated the matter to GRC/PNO.
+- Email from Yes Touch CC — "RE:'=005-847-855' EXTERNAL : Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": Dear Sir/Madam, Greetings from YES BANK. This is with reference to your E-mail dated December 20, 2025 Regarding your YES BANK Credit Card. We understand that you have escalated the matter to GRC/PNO.
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 243.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_K MURALI on 20-12-2025 at 12:54:59 pm. Avl Bal INR 95477.00. In case of suspicious transaction, to block
+- Email from Mailsuite Notification — "Discrepancy in Outstanding Amount and Missing Payment Option for YES Bank Klick Credit Card (Kiwi)": 📆 Old conversation revival: Opened 3 weeks after it was sent. See tracking history or turn off revival notifications
+- Email from Fatema Mansoor Mukadam — "Fwd: ai without internet": ---------- Forwarded message --------- From: Vaibhav Sisinty <stayingahead@mail.beehiiv.com> Date: Mon, 22 Dec 2025, 16:58 Subject: ai without internet To: fatema.mansoor@gmail.com <fatema.
+- Email from donotreply@cherrinet.in — "Cherrinet Ticket": Dear customer, Your ticket has been created. Your ticket id is 20251226T00449. Kindly keep it for future reference.- Cherrinet
+- Email from donotreply — "Cherrinet Ticket": Dear customer, Your ticket has been created. Your ticket id is 20251226T00449. Kindly keep it for future reference.- Cherrinet
+- Email from donotreply@cherrinet.in — "Cherrinet Ticket": Dear customer, Your ticket has been created. Your ticket id is 20251226T00477. Kindly keep it for future reference.- Cherrinet
+- Email from Hussain Bhagat — "Fold Unsupported Bank": Hey, I cannot relink my bank accounts. It's the federal Bank accounts. It gets stuck after the swipe to update screen. I do not receive any OTP at this screen. Kindly check and let me know please.
+- Email from Meetup — "Zeinab Ali posted in DubAI AI": Zeinab Ali started a discussion in DubAI AI. Zeinab Ali Zeinab Ali Hey , Please join my walk and talk group on kite beach twice a week Wednesdays and Thursdays 7pm -9pm! Join what'sapp group !
+- Email from BankStatements — "Your December 2025 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from BankStatements@kotak.bank.in — "Your December 2025 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Fold — "Support request received": Your request (13053) has been received and is being reviewed by our team. To add additional comments, reply to this email. – Fold This email is a service from Fold. Delivered by Zendesk [5DL1GL-KJZ6G]
+- Email from Fold — "Fold Unsupported Bank": Hi, This is a bug, we will soon be pushing an update for this issue. Please try again with the next update, and let us know if you still face issues. I will let you know once the fix goes live. This
+- Email from KOTAK BANK ALERTS — "Bank Account Statement Dec-25": If you are unable to view the below e-mailer, please click here Dear HUSAIN M BHAGAT, At Kotak Mahindra Bank, we always aim to make your banking experience easier and convenient. Now enjoy viewing your
+- Email from HSBC VIDEO KYC — "HSBC VIDEO KYC": HSBC India Dear HUSAIN M BHAGAT File reference number : RKT/CHN/PWS/3701138 Thank you for your interest in completing your Video KYC with HSBC. Enjoy contactless and paperless banking by clicking here
+- Email from Banking Ombudsman, . — "Complaint No N202526006011668 against HDFC Bank Ltd- Seeking Comments for bank's reply": Madam / Dear Sir, Please refer to your complaint No: N202526006011668 against HDFC Bank Ltd. In this regard, please find attached copy of the bank's reply along with attachments. ​We wish to inform
+- Email from Banking Ombudsman, Chennai — "Complaint No N202526006011668 against HDFC Bank Ltd- Seeking Comments for bank's reply": Madam / Dear Sir, Please refer to your complaint No: N202526006011668 against HDFC Bank Ltd. In this regard, please find attached copy of the bank's reply along with attachments. ​We wish to inform
+- Email from CardSupport — "[Restricted] EXTERNAL: Request for Detailed Rejection Reason – HSBC Credit Card Application Ref No. 35620260055000249  (KMM25794751V57218L0KM)": Dear Customer, We thank you for your email. This is an auto acknowledgement sent in response to your email message. Please note that: a) This email box is exclusively to cater to all credit card
+- Email from Hussain Bhagat — "Request for Detailed Rejection Reason – HSBC Credit Card Application Ref No. 35620260055000249": Dear HSBC Credit Card Team, I am writing with reference to my HSBC Credit Card application (Application Reference Number: 35620260055000249), which has been rejected for the second time with a generic
+- Email from CardSupport — "[Restricted] Case Reference Number  39629291   (KMM25794994V59994L0KM)": Dear Mr. Bhagat, Reference Number 39629291 This is further to your email dated 09 Dec 2026 regarding the Credit Card Application status. Thank you for showing your interest in applying for HSBC Credit
+- Email from Mailsuite Reminder — "Request for Detailed Rejection Reason – HSBC Credit Card Application Ref No. 35620260055000249": ⚠️ Your email to cardsupport@hsbc.co.in has not been opened yet. Snooze for 24H, 48H or 72H ( disable)
+- Email from Perplexity — "Sign in to Perplexity": Sign in to your account Sign in This link and code will only be valid for the next 5 minutes. If the link does not work, you can use the login verification code directly: 236653 If you did not request
+- Email from Perplexity — "Sign in to Perplexity": Sign in to your account Sign in This link and code will only be valid for the next 5 minutes. If the link does not work, you can use the login verification code directly: 596887 If you did not request
+- Email from Mailsuite Reminder — "Request for Detailed Rejection Reason – HSBC Credit Card Application Ref No. 35620260055000249": 📭 You've not received a reply yet. Snooze for 24H, 48H, or 72H
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 20.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_VENDIMAN PVT LTD on 13-01-2026 at 07:57:48 pm. Avl Bal INR 93575.00. In case of suspicious transaction, to
+- Email from Fi Money — "₹225.00 received in your Federal Savings account": Money received Your account XXXXXXXXXX3961 was credited with the following amount: ₹225.00 Date January 20, 2026 From azeezshabbir786-1@okaxis POWERED BY *Terms and Conditions apply If you experience
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 30.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_THE TAMILNADU COOP on 13-01-2026 at 08:12:21 pm. Avl Bal INR 93545.00. In case of suspicious transaction,
+- Email from Fi Money — "₹225.00 received in your Federal Savings account": Money received Your account XXXXXXXXXX3961 was credited with the following amount: ₹225.00 Date January 20, 2026 From tahagg@axl POWERED BY *Terms and Conditions apply If you experience any glitches,
+- Email from Jono M — "Re: [antiwork/gumroad] Fix flakey tests (Issue #2462)": Closed #2462 as completed via #2495. — Reply to this email directly, view it on GitHub, or unsubscribe. You are receiving this because you are subscribed to this thread. Message ID: <antiwork/
+- Email from Jono M — "Re: [antiwork/gumroad] Migrate away from CSS files to Tailwind (Issue #1055)": Closed #1055 as completed. — Reply to this email directly, view it on GitHub, or unsubscribe. You are receiving this because you are subscribed to this thread. Message ID: <antiwork/gumroad/issue/
+- Email from schrodingrsbrat — "Re: [antiwork/gumroad] Payment issue with Stripe (Issue #3005)": Closed #3005 as completed. — Reply to this email directly, view it on GitHub, or unsubscribe. You are receiving this because you are subscribed to this thread. Message ID: <antiwork/gumroad/issue/
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 5000.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_DAWOODI BOHRA JAMA on 24-01-2026 at 06:25:03 pm. Avl Bal INR 88045.00. In case of suspicious transaction
+- Email from YES BANK Alerts — "YES BANK - Transaction Alert": Dear Cardmember, INR 7500.00 has been spent on your YES BANK Credit Card ending with 9666 at UPI_DAWOODI BOHRA JAMA on 24-01-2026 at 06:32:26 pm. Avl Bal INR 85545.00. In case of suspicious transaction
+- Email from BankStatements — "Your January 2026 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Emmanuel Joseph — "Invitation from an unknown sender: Mochi Founding Cohort @ Tue Feb 3, 2026 10:30pm - 11:30pm (IST) (hussainbhagat52@gmail.com)": Mochi Founding Cohort This event isn't in your calendar yet You haven't interacted with webprodigies.connect@gmail.com before. Do you want to automatically add this and future invitations from
+- Email from HDFC Bank InstaAlerts — "Rs.406.00 debited via Credit Card **3295": Dear Customer, Greetings from HDFC Bank! Rs.406.00 is debited from your HDFC Bank Credit Card ending 3295 towards Swiggy on 24 Jan, 2026 at 19:31:49. To know your available balance, outstanding amount
+- Email from KOTAK BANK ALERTS — "Bank Account Statement Jan-26": If you are unable to view the below e-mailer, please click here Dear HUSAIN M BHAGAT, At Kotak Mahindra Bank, we always aim to make your banking experience easier and convenient. Now enjoy viewing your
+- Email from Fi-Money — "Important: Fi Salary Plan' Reward T&C Changes": Need help? To chat with us, tap here. Don't have the Fi app? Tap to install. © 2026 epiFi Technologies Pvt. Ltd. All rights reserved. Terms and Conditions | Policy | Unsubscribe LinkedIn Twitter
+- Email from BankStatements@kotak.bank.in — "Your January 2026 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Fi Money — "₹5,000.00 received in your Federal Savings account": Money received Your account XXXXXXXXXX3961 was credited with the following amount: ₹5000.00 Date February 18, 2026 From husain.md@oksbi POWERED BY *Terms and Conditions apply If you experience any
+- Email from Fi Money — "₹5,000.00 received in your Federal Savings account": Money received Your account XXXXXXXXXX3961 was credited with the following amount: ₹5000.00 Date February 18, 2026 From husain.md@okicici POWERED BY *Terms and Conditions apply If you experience any
+- Email from KOTAK BANK ALERTS — "Bank Account Statement Feb-26": If you are unable to view the below e-mailer, please click here Dear HUSAIN M BHAGAT, At Kotak Mahindra Bank, we always aim to make your banking experience easier and convenient. Now enjoy viewing your
+- Email from Federal Bank — "Update on Federal Bank Account Opened via Fi App": Dear Customer, Thank you for opening your account with Federal Bank through the Fi App. As part of business re-alignment strategies, we want to let you know that our partnership with Fi is ending. Your
+- Email from Amatullah Bhagat — "Fwd: Golden ITS Card Redesign Competition": ---------- Forwarded message --------- From: Amatullah Bhagat <ammy52.ab@gmail.com> Date: Fri, 13 Mar 2026, 00:08 Subject: Fwd: Golden ITS Card Redesign Competition To: Leafy Bhagat <leafy5253
+- Email from HDFC Bank InstaAlerts — "Rs.504.00 debited via Credit Card **3295": Dear Customer, Greetings from HDFC Bank! Rs.504.00 is debited from your HDFC Bank Credit Card ending 3295 towards Amazon Seller Services on 21 Mar, 2026 at 15:01:02. To know your available balance,
+- Email from HDFC Bank InstaAler. — "Rs.504.00 debited via Credit Card **3295": Dear Customer, Greetings from HDFC Bank! Rs.504.00 is debited from your HDFC Bank Credit Card ending 3295 towards Amazon Seller Services on 21 Mar, 2026 at 15:01:02. To know your available balance,
+- Email from BankStatements — "Your March 2026 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from HDFC Bank InstaAlerts — "Rs.504.00 debited via Credit Card **3295": Dear Customer, Greetings from HDFC Bank! Rs.504.00 is debited from your HDFC Bank Credit Card ending 3295 towards Amazon Seller Services on 21 Mar, 2026 at 15:12:37. To know your available balance,
+- Email from LinkedIn — "Arushi Ladha posted: I'm looking for a PM who has opened a blank Cursor…": Husain, 6 new updates for you ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from BankStatements@kotak.bank.in — "Your March 2026 statement for Kotak A/c X4630": View your transaction summary securely. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from YQ LAW STUDIO — "Engagement Letter": Dear, Please review the attached engagement letter. if the terms are acceptable, kindly sign and return the copy to us as conformation. Adv Yusuf SQ Founding Partner of M/s YQ LAW STUDIO [A Business
+- Email from LinkedIn — "Murtuza Kutub posted: Asked our intern to edit our 2-hour meeting into…": Husain, 6 new updates for you ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Pratik from Earn — "Your Weekly Listing Roundup Is Here!": Hey there, Hussain! Here's a weekly round-up of all live listings, curated just for you: Frontend Build a Live dApp with Solflare, Kamino, DFlow, or Quicknode with Eitherway App by Eitherway (20000
+- Email from EaseMyTrip — "Hey Explorer,": Unlock Travel Savings Of Up To 60%* ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿ ͏ ﻿
+- Email from IKEA Family — "Match day prep with Flat 20% off* on home textiles! 🏏": Everything your living room needs to host match days. 😎 View this email online Husain Bhagat 6275980365159196594 Everything your living room needs to host match days. 😎 Everything your living room
+- Email from React Summit US — "🎟 Limited scholarships — your opportunity to attend": Apply by Sep 1 to gain hands-on experience with top engineers in NYC or online ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+- Email from Code with Antonio — "YouTube is the second build": I build the real project first. The tutorial version comes after. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Maven — "⚡ Master Cowork, build agents, ace technical interviews": Plus free sessions on opportunity sizing, executive comms, and more ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Eva Friday — "Last chance to join the first cohort with other AI Strategy Leaders": Move beyond AI feature development and into real strategic leadership ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from amuldotexe from tec. — "Hypothesis: The industry is right in being biased against older folks": Watch now (8 mins) | Hear me out, it is uncomfortable to accept it, but likely true ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from HDFC Bank — "Credit Card xx3295 Update: Convert your balance to SmartEMI": View EMI plans >> If you are unable to view this message correctly, click here ​ Dear Husain, Thank you for being a valued HDFC Bank customer. You can now convert eligible Credit Card
+- Email from Blinkist — "💫 Give yourself this quick win": Blinkist Hey there! 👋 Feel inspired by perfectly timed insights Every Short is designed to make sense immediately. Complex ideas become accessible, removing the mental friction that usually comes with
+- Email from Grok — "anthropic eyes custom ai chips": Social Media Content Strategy is ready anthropic eyes custom ai chips anthropic just weighed building its own ai chips. here's what this actually means 🧵 2/ what happened: anthropic is quietly
+- Email from Linear — "New login to Linear": Login detected with Microsoft Edge on macOS from Coimbatore, TN, IN ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏
+- Email from redRail — "Enjoy FREE Cancellation on trains! 🚂": With redRail's Free Cancellation feature, you can get a full train fare refund. Keep your travel plans flexible! BOOK NOW © 2026 MakeMyTrip, All Rights Reserved If you wish to opt out of all type
+- Email from IndiGo BluChip — "IndiGo 🤝 iPlanet": Earn IndiGo BluChips when you shop Apple devices on iPlanet.📱 ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ If you are unable to view this message correctly, click here Book now Book now Your IndiGo BluChip ID:
+- Email from Hussain Bhagat — "Engagement Letter": Dear Adv Yusuf SQ, I acknowledge receipt of the engagement letter and confirm that we can proceed. Per our discussion, I understand that a physical signature is not necessary and that this email
+- Email from Code with Antonio — "Build Your Own Claude Code opens Apr 21": plus early access to the next free tutorial ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from amuldotexe from tec. — "My experience of selling courses": Watch now | was not exactly good in long term - even though the money was ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from X — "Your receipt from X #2583-0835-6204": Your receipt from X #2583-0835-6204 ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Google Alerts — "Google Alert - Gold": Google Gold Daily update ⋅ 12 April 2026 NEWS Gold, silver rate today, 11 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm ... Mint Gold, silver rates today, 11 April: Check the
+- Email from amuldotexe from tec. — "Building technical sophistication is about finding beauty in the boring parts of your work": Watch now (7 mins) | Feels a lot like JEE prep ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from gx-events — "You’re in, husain! See you at Build an AI Meeting Prep Agent with n8n": Hey husain, You're all set. Your spot for Build an AI Meeting Prep Agent with n8n is confirmed. Event details When: Wednesday, April 15, 2026 at 7:00 PM Where: https://growthx.cc/deep-dive Ticket:
+- Email from gx-events — "You’re in, husain! See you at How Microsoft’s AI VP uses and builds with AI": Hey husain, You're all set. Your spot for How Microsoft's AI VP uses and builds with AI is confirmed. Event details When: Thursday, April 16, 2026 at 7:00 PM Where: https://growthx.cc/deep-dive
+- Email from Fi Money — "₹280.00 received in your Federal Savings account": Money received Your account XXXXXXXXXX3961 was credited with the following amount: ₹280.00 Date April 14, 2026 From leafy5253@okicici POWERED BY *Terms and Conditions apply If you experience any
+- Email from Alex Freedman — "Your Digital Brain guide": Hey — Alex here. Thanks for joining the alex2learn newsletter. Quick promise: I'm not going to spam you, sell you anything, or flood your inbox with garbage. Expect maybe one or two emails a week,
+- Email from GrowthX — "Build a AI notetaker in 40 minutes.": Featuring a free, no-code workflow for beginners. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from estatement — "Your YES_BANK_Klick Credit Card E-Statement": Dear HUSAIN M BHAGAT, Thank you for banking with YES BANK. As a discerning connoisseur of finer things in life, it is our endeavor to provide you with a Consistent and a Superior Banking experience
+- Email from Grok — "AI agents hit Product Hunt hard": Social Media Content Strategy is ready AI agents hit Product Hunt hard 5 ai agent launches just hit product hunt. here's what it actually means for builders 🧵 2/ figma for agents dropped: ai agents
+- Email from amuldotexe — "Running multiple agents may not be a good idea for all of us": Watch now (7 mins) | Those who do might already hold good mental models of their code ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Adrian | JS Mastery — "The editor war is over, Husain. Here's who won...": ...and what comes next ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏
+- Email from INDmoney Statements — "Weekly Statement of Funds & Securities | INDmoney": INDstocks by INDmoney Weekly Statement Hi Husain M Bhagat, Client Code: DYN4QXXO17 We have attached the weekly statement of accounts for funds & securities. The document is password protected.
+- Email from HDFC Bank Cards — "Your HDFC Bank - Swiggy HDFC Bank Credit Card Statement - April-2026": Hey, Husain M Bhagat Here's the e-statement for your Swiggy HDFC Bank Credit Card Your latest eStatement (or duplicate statement, as requested by you) is attached with this mail. Here's a smart
+- Email from Aakash Gupta from P. — "Product Design Questions Are Dead. Here's What Replaced Them.": The AI system design interview is the round nobody prepared for. A complete framework, 2 worked examples, and a 64-question bank to practice. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Truemeds — "Order Confirmed: Your order 46524692 is confirmed!": Order Confirmation truemeds YOUR ORDER IS CONFIRMED! Thanks for always trusting us with your healthcare needs. Piggy Bank Savings TRACK YOUR ORDER Hi Husain M Bhagat , Yourorder no. 46524692is
+- Email from HDFC Bank — "Transaction Alert on Pixel Play credit Card": Dear Customer, Your payment for INR 47.68 to UBER INDIA SYSTE PVT LTD from your Pixel Play credit card ending with XX4524 on 16/04/26 15:23 is successful. Click here to see your available balance:
+- Email from Lenny's Newsletter — "What PM Hiring Managers Actually Screen For": Lenny's Newsletter cross-posted an episode from The Skip Lenny RachitskyApr 15 · Lenny's Newsletter New episode of The Skip, part of the Lenny's Podcast Network 💥 This episode flips the
+- Email from Code with Antonio — "Teaching by my own rules": a workshop built for your understanding ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from HDFC Bank Cards — "Your HDFC Bank - UPI RuPay Credit Card Statement - April-2026": Hey, Husain M Bhagat Here's the e-statement for your UPI RuPay Credit Card Your latest eStatement (or duplicate statement, as requested by you) is attached with this mail. Here's a smart and
+- Email from Truemeds — "Order Delivered: Your order 46524692 is delivered!": ORDER ID: 46524692 You have unlocked new Savings with this order! Hi Husain M Bhagat , Your order no 46524692 is delivered. A copy of your invoice is also attached to the email. Order Details Summary
+- Email from Notion — "You are registered for Make with Notion: Developer Platform": Hi Husain, You're in! Click the link below to add the Make with Notion: Developer Platform virtual event to your calendar, and stay tuned for more updates soon. Add to calendar. When it's time
+- Email from IKEA Family — "New Beginnings Offer: Flat 15% off* at IKEA.": Exclusive offer on IKEA furniture & kitchens. View this email online Husain Bhagat 6275980365159196594 Exclusive offer on IKEA furniture & kitchens. Exclusive offer on IKEA furniture &
+- Email from Unity Small Finance. — "Balance certificate (FY 2025-26)": Dear Husain M Bhagat Please find attached Balance certificate as on 01/Apr/2026 . We thank you for using our services and take pride in having you as our customer For any clarification, please contact
+- Email from Goibibo — "FLAT ₹5000 OFF* on Air Asia Flights! ": Goibibo.com Follow us on Instagram facebook Twitter Youtube Download Goibibo Mobile App App Store Google Play Goibibo is one of India's leading online hotel and flight booking platforms. Every day,
+- Email from DUPR — "Only 4 Weeks Left to Reset Your DUPR": Don't miss your window to prove your current level. ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏
+- Email from a16z — "Charts of the Week: 'Is Tech Cheap, Now?'": AI Favors the Activists (the other kind); Quantifiable AI Benefits Rising; Oil Matters Less than it Used to; The Most Expensive Affordable Grocery Store Ever ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from SaaStr — "4 weeks out: who's taking the stage at SaaStr": Databricks, Anthropic, Salesforce, Replit and 100+ more sessions To view this email as a web page, click here saastr annual 2026 SF Bay Area, May 12-14, 2026 Last Chance. SaaStr AI Annual Starts May 12
+- Email from Duolingo — "🥹 Are you abandoning your streak?": Only a lesson can save your streak now ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from Blinkist — "👋 Ready for a smart break?": Blinkist Hey, 9000+ blinks are yours to explore Make learning a daily habit with short, focused blinks that fit naturally into your routine, even on busy days. Unlimited access makes it easy to build a
+- Email from Code with Antonio — "What to learn from the Claude Code leak": It wasn't secret code. It's understanding the loop. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Skillshare — "Daniel Scott published a new class!": Don't miss this new class from Daniel Scott. Procreate Essentials: A Designer's Guide to Digital Illustration ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from CashKaro — "Everything you need… for less 👀": Up to 80% off + up to 5% Rewards on Amazon.in CashKaro X Amazon Amazon - Up to 80% Off + Up to 5% Rewards Earn More on Every Category Men's Fashion Women's Fashion Beauty Kitchen Products
+- Email from Product Hunt — "Aaron O'Leary just posted in p/producthunt": Product Hunt Friday, April 17 Aaron O'Leary just posted in p/producthunt Because you follow Product Hunt In p/producthunt Aaron O'Leary Aaron O'Leary Content @ Product Hunt Vercel Day is
+- Email from Airtm — "SHOP AROUND THE WORLD — EN": Get your virtual card and pay at your favorite sites without borders or complications. ‌‌‌‌‌‌ YOUR AIRTM CARD SHOP AROUND THE WORLD Get your virtual card and pay at your favorite sites without borders
+- Email from Eldad Fux — "The future of Appwrite Databases starts now": MongoDB on self-hosted was step one. Here's what's next. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Glassdoor Community — "if anyone wants referral in Accenture I can refer": Husain, check out the latest trending posts from the community 🔥 ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍
+- Email from Duolingo — "Weekly Chess results are in. Nice work 🎉": Take a look at your stats. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+- Email from IDFC FIRST Bank — "(1) Travel update✉️": Get 0 Forex Fees with FIRST WOW! Credit Card Always You First, Team IDFC FIRST Bank ©2026 IDFC FIRST Bank. All rights reserved. Read about our T&Cs and Privacy Policy Open or Download the IDFC
+- Email from ASSET — "AQAD class 9 Social Studies, 18 April 2026": AQAD Class 9 Social Studies 18th Apr, 2026 Which of these is NOT a major source of revenue for the muncipal body of metropolitian cities of India? A property tax B selling of rations in fair price
+- Email from Google Calendar — "You have no events scheduled today.": Google Calendar Hussain Bhagat, you have no events scheduled today Sat Apr 18, 2026 You are receiving this email at the account hussainbhagat52@gmail.com because you are subscribed to receive daily
+- Email from Mag Miles by Magnify — "New: Convert Flipkart Supercoins to Mag Miles": Hussain Bhagat, top up your Mag Miles with your Flipkart Supercoins. Now live in the Magnify app. New on Magnify Flipkart Supercoins to Mag Miles Hussain Bhagat, top up your Mag Miles with your
+- Email from Team Vapi — "Our Terms of Service Have Been Updated": Hey, We've made a few updates to our Terms of Service to make them clearer, more transparent, and better aligned with how our platform works today. Here's a quick summary of what's new:
+- Email from Aakash Gupta — "Claude Routines and Managed Agents + Opus-4.7 = Magic": I'm breaking down the latest game-changing Anthropic releases, plus getting you caught up on what mattered in AI this week ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Team BankBazaar — "IMP: Your Credit Score has CHANGED": Hi Bhagat, Your Credit Score for APR 2026 is here. Click to View >> Bank you very much, Team BankBazaar This is an auto-generated email. Please do not reply. By clicking on this button, you
+- Email from Google — "Your Google Account was recovered successfully": This is a copy of a security alert sent to inayatbhagat52@gmail.com. hussainbhagat52@gmail.com is the recovery email for this account. If you don't recognise this account, remove it. Account
+- Email from digibank Connect — "This Akshay Tritiya, invest in Gold Mutual Funds": DBS Banner This auspicious occasion, take a step towards long-term growth. Invest in Gold Mutual Funds and diversify your portfolio with ease. Why invest in Gold Mutual Funds? No making & storage
+- Email from Alvazaratus Saifiyah — "Sabaq Intimation for Mehdiya group": Husain bhai Mohammed bhai Bhagat ITS ID: 40414040 Sabaq of [ Nisaab 4 ] Mehdiya group has been scheduled on 19/04/2026 at 10:30 AM at YAQOOT HALL Sabaq Padhavnaar: Taher bh Ishaq bh Badri In case you
+- Email from Shaw Watches — "Manta Quartz is Live Now": Book now at pre-order price ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+- Email from Namecheap Support — "Namecheap Order Summary (Order# 200103739);": Namecheap Order Summary Date: Apr 18, 2026 05:08:13 AM EST Hello, Thank you for choosing Namecheap. Here's a summary of your order. Order Details Order Date: Apr 18, 2026 05:08:05 AM Order Number:
+- Email from Federal Bank — "Transaction Alert": Dear Customer, The below transaction done using your debit card ending 3954 has been SUCCESSFUL. Transaction Date Time Beneficiary / ATM Country Code Amount Transaction Status 2026-04-18 14:38:13 NAME-
+- Email from IDFC FIRST Bank — "Dos and Don’ts for Safe Use of Your IDFC FIRST Bank Credit Card": Want to unsubscribe? We are sorry to see you go! IDFC FIRST Bank Limited, KRM Towers, 7th Floor No. 1, Harrington Road, Chetpet, Chennai, Tamil Nadu, 600031, India
+- The user has contacts with birthdays tracked: Mufaddal Z Ezzi (Apr 7), Abbas Soda (Nov 27), Mohammed Unjha (Nov 23), and Zainab J (Sep 30).
+- The user tracks career development actively, attending sessions on salary growth and career masterminds.
+- The user participates in PR review sessions and has collaborated with peers including Sahil Lavingia (Gumroad founder).
+- The user is interested in AI-powered developer tools like Claude Code, Cursor, and n8n.
+- The user attended a family wedding series in late December 2025 involving family members Hamza and Fatema.
+- The user traveled from Bangalore to Chennai by train in August 2025 and flew from Chennai to Mumbai in October 2025.
+- The user has connections in the Bengaluru and Chennai tech scenes, attending local meetups including a Cursor Meetup in Chennai and an Anthropic event in Bengaluru.
+- The user has strong interest in AI tools and building with AI, regularly attending deep-dive sessions on AI topics.
+- The user is a member of the GrowthX community, having onboarded in December 2025.
+- The user is based in India, operating in the IST (UTC+05:30) timezone.
+- The user's birthday is on June 5th.
+- The user has a Swiggy credit card with a billing cycle that ends on the 3rd of every month.
+- The user has an Axis credit card with a billing cycle that ends on the 15th of every month.
+- Calendar event — Pay Axis CC Last day | Starts: 2025-05-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-05-03
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-06-03
+- Calendar event — Happy birthday! | Starts: 2025-06-05
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-08-03
+- Calendar event — Pay Axis CC Last day | Starts: 2025-06-15
+- Calendar event — Pay Axis CC Last day | Starts: 2025-08-15
+- Calendar event — Pay Axis CC Last day | Starts: 2025-07-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-07-03
+- Calendar event — Train to Chennai Central (MAS) | Starts: 2025-08-24T16:15:00+05:30 | Location: Bangalore Cy Jn (SBC)
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-09-03
+- Calendar event — Stay at Open Hotel by Olive - Sai Luxury Comforts | Starts: 2025-08-23 | Location: Oosterdokskade 163, 1011 DL Amsterdam Netherlands
+- Calendar event — Cursor Meetup Chennai | Starts: 2025-09-20T11:00:00+05:30 | Location: https://luma.com/event/evt-aZmTJA5ihamTkS0
+- Calendar event — Pay Axis CC Last day | Starts: 2025-09-15
+- Calendar event — How to Learn Faster Using AI | Starts: 2025-09-28T15:00:00+05:30
+- Calendar event — How to Learn Faster Using AI | Starts: 2025-09-28T15:00:00+05:30 | Location: https://us06web.zoom.us/w/86824335630?tk=fcOAIymFpc0VGQVT8jXGoThuH-OdA-RR9KPWOtpE_S4.DQkAAAAUNyI5DhZpWFNaTzBzMlI1VzlSc0RzTXhSOGZnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=8dBJ9C4FPRna4HrL0jvicBkDc8zl5G.1&uuid=WN_hJnfMB8KSlGVa-11KbTWfw
+- Calendar event — Career Mastermind Exclusive Invite | Starts: 2025-09-29T05:30:00+05:30 | Location: Zoom
+- Calendar event — Zainab J's Bday | Starts: 2025-09-30
+- Calendar event — Mastering Prompting Skills for Social Media Marketers | Starts: 2025-10-01T21:30:00+05:30
+- The user's local documents include ~/Documents/Pictures/Tahera Massawi Pics/TaheraBirtPart/birthdaycard.pdf (pdf).
+- The user's local documents include ~/Documents/Pictures/Tahera Massawi Pics/TaheraBirtPart/Tahera Bday card.pdf (pdf).
+- The user's local documents include ~/Documents/Pictures/Tahera Massawi Pics/Tahera Massawi_Humayoon/software.txt (txt).
+- The user's local documents include ~/Documents/Pictures/Tahera Massawi Pics/Updated list of Model Coordinators, etc for 2007.pdf (pdf).
+- The user's local documents include ~/Documents/Pictures/Ziyafat 1431 n  jan 2010/ziyafat 1431.txt (txt).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/DOC-20230520-WA0031.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/DOC-20230520-WA0031 (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Family/TAHER FEES 1ST TERM 23-24.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Family/Mr HUSAIN MOHAMMED BHAGAT-1.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Rent Mar-Apr.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/230822882180-eticket.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/husain-bhagat-peerlist-resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Profile.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Resume-Hussain-Bhagat.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/1697202997986_Sweta_Agarwalla_Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Raj_resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/invoice.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/invoice (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Bhumika_Singh_Resume_React.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/ModifiedFixForm.tsx (tsx).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Learners License.pdf.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Learners License.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/UnifyApiWithZeroVat.
+- The user's local downloads include ~/Downloads/Personal/Health/Prescription.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/MAA - BOM 8th Dec.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/BOM - MAA 10th Dec.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/BOM- ADI 27th Dec.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/ADI - PUNE 28th Dec.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/PUNE- MAS 01 Jan.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/PUNE - ADI 4th Jan.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/ADI - MAS 8th Jan.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/Cleartrip Flight Domestic E-Ticket.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Taha.M.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/07_Alp_Michael.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/13_Baulf_Kars.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/11_Kato_Sugawara.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/04_Mohd Shazali_Saiful Izwan.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/06_Stockwell_Mark.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/12_Laube_Luthardt_Gilis.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/09_Cortvriend_Zenner.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/08_Menezes_Hu.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/05_Arman_Pierre.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/10_Talaifar_Mehrdad.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/03_Hoddevik_Andre.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/00_Workshop_Part 1_CTC.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/01_Kumar_Kiren.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/02_Geok_Xiao.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/17_Graham_Steve.pdf (pdf).
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-10-03
+- Calendar event — PR reviews | Starts: 2025-10-08T20:30:00+05:30 | With: sahil.lavingia@gmail.com, tibetdelek@gmail.com, surapallisaikiran@gmail.com, sargampoudel100@gmail.com, 123abhishekwasekar@gmail.com
+- Calendar event — Flight to Mumbai (QP 1305) | Starts: 2025-10-24T13:35:00+05:30 | Location: Chennai MAA
+- Calendar event — How to 2x Your Salary? Career Queries w/ Swapnil | Starts: 2025-10-14T05:30:00+05:30
+- Calendar event — Pay Axis CC Last day | Starts: 2025-10-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-11-03
+- Calendar event — Pay Axis CC Last day | Starts: 2025-11-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2025-12-03
+- Calendar event — Mohammed Unjha's birthday | Starts: 2025-11-23
+- Calendar event — Abbas Soda's Birthday | Starts: 2025-11-27
+- Calendar event — GrowthX Onboarding Call with Community Team | Starts: 2025-12-03T17:00:00+05:30 | Location: https://us02web.zoom.us/j/84426551490?pwd=nX31YAHwloYNE3UTxFmrurcMV8FfzR.1
+- Calendar event — Pay Axis CC Last day | Starts: 2025-12-15
+- Calendar event — GrowthX Onboarding Call with Community Team | Starts: 2025-12-05T15:00:00+05:30 | Location: https://us02web.zoom.us/j/85664832106?pwd=IP2iZOr4sScR7g8zsragXGEPok0aLV.1
+- Calendar event — The AI Builder Roadmap: How to start building with AI | Starts: 2025-12-18T20:00:00+05:30 | Location: https://growthx.cc/deep-dive
+- Calendar event — Hamza <> Ambassadro Pallava | Starts: 2025-12-23T19:30:00+05:30
+- Calendar event — Hamza <> Pannat Jaman | Starts: 2025-12-24T20:00:00+05:30
+- Calendar event — Fatema <> Mama Mosalu | Starts: 2025-12-25T19:00:00+05:30
+- Calendar event — Hamza <> Main Jaman | Starts: 2025-12-25T20:00:00+05:30
+- Calendar event — Fatema <> Pannat Jaman | Starts: 2025-12-27T20:00:00+05:30
+- Calendar event — Fatema <> Nikah Jaman | Starts: 2025-12-26T20:00:00+05:30
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2026-01-03
+- Calendar event — How FDEs drive 0→1 AI transformations | Starts: 2026-01-10T16:00:00+05:30 | Location: https://growthx.cc/deep-dive
+- Calendar event — Cursor for Product Managers | Starts: 2026-01-14T22:30:00+05:30
+- Calendar event — Pay Axis CC Last day | Starts: 2026-01-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2026-02-03
+- Calendar event — Anthropic: Behind the Scenes | Starts: 2026-02-13T18:30:00+05:30 | Location: Lossfunk, 3rd Floor, 309, 100 Feet Rd, 1st Stage, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India
+- Calendar event — Pay Axis CC Last day | Starts: 2026-02-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2026-03-03
+- Calendar event — Pay Axis CC Last day | Starts: 2026-03-15
+- Calendar event — Mufaddal Z Ezzi's birthday | Starts: 2026-04-07
+- Calendar event — How Microsoft’s AI VP uses and builds with AI | Starts: 2026-04-16T19:00:00+05:30 | Location: https://growthx.cc/deep-dive
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2026-04-03
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/14_Baulf_Alex.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/15_Iqbal_Siraj.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/16_ Sands_Robin.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Configs & Keys/API_KEY_API.
+- The user's local downloads include ~/Downloads/Archive - Old Projects/product-file-158-00_Presentations/00_Workshop_Part 2_PINT.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/CURL validateDoc.
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/CURL validateDoc (1).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Complyance V2.postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Complyance V2.postman_collection (1).json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Platform - Test.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Platform - Dev.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Platform - Prod.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Test.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Simulation.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Sandbox.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Prod.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Dev.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Platform - Sandbox.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Platform - Simulation.postman_environment.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/BNI PITCH.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/template (9)_gzip.pkl 2.
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/sample.json (json).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/curl.
+- The user's local downloads include ~/Downloads/Personal/Finance/CC96004540791.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/husain-bhagat-peerlist-resume (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Resume-Hussain-Bhagat (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Test.postman_environment (1).json (json).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/index.ts (ts).
+- The user's local downloads include ~/Downloads/Personal/Travel/MUKADAM Modify Itinerary (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/To Review/153481.html (html).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Dev.postman_environment (1).json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Sandbox.postman_environment (1).json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Simulation.postman_environment (1).json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Core API - Prod.postman_environment (1).json (json).
+- The user's local downloads include ~/Downloads/Personal/Finance/300075588700003_20221231T043341_23.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/husain-bhagat-peerlist-resume (2).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Profile (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Learners License (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/LL payment reciept.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/typeform_invoice_BTLrdUUCG6BKufYh.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/E-INVOICE GUIDELINE IRBM.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Resume_Niharika.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/E-INVOICE SPECIFIC GUIDELINE IRBM.pdf (pdf).
+- The user's local documents include ~/Documents/Alefiya Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/requestFormat.
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Rutvik_Umak.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/LomeshResume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/FrontendDev_SagarPanwar_24.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/sample_JSON.
+- The user's local downloads include ~/Downloads/Personal/Health/taher-blood-test.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Health/husain-blood-test.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Invoice PDF.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/Colombo - Accomadation.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/HOTEL OPTIONS - COLOMBO.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/Colombo tkts.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/GOFLDSTA0YDDWFI92091.ETicket.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Invoice PDF (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/N2755139 .pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/R3777847 .pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/GOFLDSTA0YDDWFI92091.ETicket (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/boardingpass_N8PF7J_MAABOM.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Allocation Printout - ver 53.110.1400.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Allocation Husain.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/Nuwera Eliya 17th.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/Ella 18th.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/GOFLDSTA0YDDWFI92091.ETicket (2).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/3 DAYS 2 NIGHTS.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Vaibhav-Matere-FE-1.5.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/GBSPB9916H-2024.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/OD431926272735488200.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/updatedJson.
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/lhdn1.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/SMK Invoice - Complyance 29072024 (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/EAadhaar_2017307043974220160218105255_06082024104840.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/CERTIFICATE OF INCORPORATION (2) (1) (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/husain-bhagat-peerlist-resume (3).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/MAS to SALEM.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/SALEM to MAS.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Profile (2).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/HAN ILLUMINATION.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Family/Alefiya Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/HAN ILLUMINATION (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/GOFLDSTA0YDDWFI92091.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Invoice PDF (8).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/prod_malaysia.invoiceData_Duplication.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/HAN PRICE LIST.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/HAN PRODUCT CATELOGUE.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/createReceipt.txt (txt).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Resume202309250701.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Pratyush_Bhatnagar_s_Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/03164 24-25.PDF (pdf).
+- The user's local downloads include ~/Downloads/Dev/Configs & Keys/github-recovery-codes.txt (txt).
+- The user's local documents include ~/Documents/Husain_s_Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/9f2c8868-70f2-4746-a48d-c015ecf84c13_Securing_Next.js_applications_with_robust_csp_headers.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/MAPA_TEMPLATE.txt (txt).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Document-Table-Views.postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/HAN ILLUMINATION CATELOGUE.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/MAS to Surat.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/ST to BOM.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/BOM to MAA.pdf (pdf).
+- Calendar event — Pay Axis CC Last day | Starts: 2026-04-15
+- Calendar event — Build an AI Meeting Prep Agent with n8n | Starts: 2026-04-15T19:00:00+05:30 | Location: https://growthx.cc/deep-dive
+- Calendar event — Pay Axis CC Last day | Starts: 2026-06-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2026-06-03
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2026-05-03
+- Calendar event — Claude Code Deep Dive | Starts: 2026-04-21T20:00:00+05:30
+- Calendar event — Happy birthday! | Starts: 2026-06-05
+- Calendar event — Pay Axis CC Last day | Starts: 2026-05-15
+- Calendar event — Pay Swiggy CC Last Day | Starts: 2026-07-03
+- Calendar event — Pay Axis CC Last day | Starts: 2026-07-15
+- The user's local downloads include ~/Downloads/Personal/Finance/5268XXXXXXXXXX95_14-10-2024.PDF (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/5268XXXXXXXXXX95_14-09-2024.PDF (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/5268XXXXXXXXXX95_14-10-2024 (1).PDF (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Estimate_1_16_10_24.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Estimate_1_16_10_24 (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/SFTP.postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Membership_card_red_325366022.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Reports & filters Collection.postman_collection 1.json (json).
+- The user's local downloads include ~/Downloads/Personal/Finance/32445aad51ec315a65be2fe7c29cd59719de0ef06dc42cf2488a23979f2ef029_encrypt_signedFinal.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Configs & Keys/private_key.txt (txt).
+- The user's local downloads include ~/Downloads/Personal/Finance/kapasi and co estimate.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Shaikh Sufiyan Resume v2-2.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/Vercel - 2024 SOC 2 Type 2 - Report.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/02058.PDF (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/01267.PDF (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Reports & filters Collection.postman_collection 1 (1).json (json).
+- The user's local downloads include ~/Downloads/Media/Books/Social skills.pdf (pdf).
+- The user's local downloads include ~/Downloads/To Review/Document sans titre (2).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/SFTP.postman_collection (1).json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Auth.postman_collection.json (json).
+- The user's local downloads include ~/Downloads/To Review/1223033855.html (html).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/MY-Masters.postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Auth.postman_collection (1).json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Postman Collections/Masters.postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/Malaysia Onboarding.postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain - NDA - Complyance.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain - NDA - Complyance (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/InvCountScript1.txt (txt).
+- The user's local documents include ~/Documents/100xdevs Cohort 2 Invoice.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/EAadhaar_2726500110064020240919120847_01032025112934.pdf (pdf).
+- The user's local documents include ~/Documents/Mar-25 03164 Property Tax.PDF (pdf).
+- The user's local documents include ~/Documents/Mar-35 03164 Water Tax.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/RESUME - KHADEEJA NAJMI.pdf (pdf).
+- The user's local documents include ~/Documents/01267 Property Tax 24-25.PDF (pdf).
+- The user's local documents include ~/Documents/01267 2nd Property Tax 24-25.PDF (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/pythonapikeygenemailfeature.
+- The user's local downloads include ~/Downloads/Personal/Finance/Hussain Bhagat-New ac Quote.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/namecheap-order-168213439.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Garden bollards.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Garden Bollards (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/API Platform Alpha PRD.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/API Platform Alpha URD.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/One Platform Alpha URD.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Unified Compliance Platform HLD.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/ALPHA_SERVICE_FLOW.excalidraw 1.md (md).
+- The user's local downloads include ~/Downloads/Personal/Finance/SAKINA ESTIMATE REVISED.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/unique_receipts.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/prod_malaysia.apiKey.json (json).
+- The user's local downloads include ~/Downloads/Dev/Configs & Keys/client_secret_321097466467-hblm26la4o66095j1qrs8ha2d3an2tra.apps.googleusercontent.com.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/mongodb-schema-design.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/KSA/KSA E-Invoicing Product requiremets document (1).md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/0513123004 1.html (html).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - JDs/Frontend Outlier JD_India.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain M Bhagat-Payslip - Apr-2025.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Kitabi Wedding Money Collection.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Complyance_FED-Trainee_Offer Letter.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Complyance.io_FED_Updated-Offer-Letter.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/dns-records-uae.demoapp.complyance.io.txt (txt).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Domain_Architecture.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Workspace Management Flows Summary.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/MASTERS_FEATURE_LLD 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Invoicing_LLD 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/complyance-unified-platform-architecture.md (md).
+- The user's local downloads include ~/Downloads/Personal/Finance/Report-240000102528547_Mr.HUSSAINBHAGAT_17Jun2024_104100.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Report-240000102528606_Mr.TAHERBHAGAT_17Jun2024_104100.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/SOURCE_MANAGEMENT_HLD 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/SOURCE_MANAGEMENT_FLOW_DESIGN.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/CENTRALIZED_FIELDS_SERVICE_HLD 2.md (md).
+- The user's local downloads include ~/Downloads/Personal/Family/Taher Mohammed Bhagat_CD_Receipt.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Family/Taher Mohammed Bhagat-Term-1 Fee Receipt.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Family/Taher Mohammed Bhagat-Year-1- Exam fee Receipt.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Family/Taher Mohammed Bhagat-1 University fee Receipt.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Circular _ UG.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/COUNTRY_STATUS_DOCUMENTATION 2.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Rafiq_v10_fsresume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/resume_arpita__.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/R Vasanth Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Vishnu_VT_Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - JDs/Technical CS intern.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - JDs/Full Stack Dev - JD 3.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - JDs/QA A&P testing Intern JD.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/README.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/README.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/gets_v0_1_schema.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/grader.py (py).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/report_schema.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/submission_form_fields.txt (txt).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/sample_clean.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/README.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/gets_v0_1_schema.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/grader.py (py).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/report_schema.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/submission_form_fields.txt (txt).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/sample_clean.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/PRD_Readiness_Analyzer.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_with_PRD/Assignment_PRD_Readiness_Analyzer.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Internal_Ops_v1/change_log.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Internal_Ops_v1/internal_grader.py (py).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Internal_Ops_v1/ops_runbook.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Internal_Ops_v1/hidden_mixed.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Candidate_Public_v1/README.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Candidate_Public_v1/gets_v0_1_schema.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Candidate_Public_v1/postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Candidate_Public_v1/sample_clean.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_DB_AGNOSTIC_UI/gets_v0_1_schema.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_DB_AGNOSTIC_UI/postman_collection.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_DB_AGNOSTIC_UI/report_schema.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_DB_AGNOSTIC_UI/sample_clean.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - Resumes/Satya_Resume (2).pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_ALL_IN_ONE/Assignment_PRD_Readiness_Analyzer.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/ReadinessAnalyzer_Assignment_DB_AGNOSTIC_UI/Assignment_PRD_Readiness_Analyzer.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/Assignment_PRD_Readiness_Analyzer_FINAL.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/Assignment_PRD_Readiness_Analyzer_STACK_PREFERRED.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/Roi Simulator Assignment Prd.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/Roi Simulator Grading Rubric.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/roi_report_Q4_Pilot.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/roi-report-asd.html (html).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Candidate_Public_v1/Assignment_PRD_Readiness_Analyzer.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Templates & Test Data/report_68e641ac0c09fe5255d79618.json (json).
+- The user's local downloads include ~/Downloads/To Review/🏛️ BUSINESS MODEL OVERVIEW - Fimbo.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain_s_Resume full-stack.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain_s_Resume.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Linear_Playbook_v1.0.md (md).
+- The user's local downloads include ~/Downloads/To Review/Markdown to PDF.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Linear_Playbook_v1.0_final.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Linear_Playbook_v1.0_final (1).md (md).
+- The user's local downloads include ~/Downloads/Personal/Finance/44117562740790867188.pdf (pdf).
+- The user's local downloads include ~/Downloads/To Review/Markdown to PDF (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/swiggy oct 25.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Notice_to_Vacate_Mrs_Alefiya_Bhagat_21Oct2025.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/pricing_spec_md.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/Complete Pricing Specification - KSA & Malaysia (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/Time Estimation for Implementing i18n in the Next.js App.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Linear_Playbook_Complete_Guide.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/4-Day_Manual_Testing_Learning_Plan.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/Transition for Husain.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/Combined transition plan for Husain and Sanjay.pdf (pdf).
+- The user's local downloads include ~/Downloads/To Review/compass_artifact_wf-d32f981f-aefb-4b6c-a7fd-26591daccfe2_text_markdown.md (md).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762243049/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762243259/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762243281/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762243298/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762243458/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762243474/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762243510/meta.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/pricing_spec_md (1).md (md).
+- The user's local documents include ~/Documents/superwhisper/recordings/1762777414/meta.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/complyance_upgrade_proration_calculations.md (md).
+- The user's local documents include ~/Documents/superwhisper/recordings/1763030788/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1763197708/meta.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/execution-2025-11-16-22-22-19/json/results.json (json).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/execution-2025-11-16-22-22-19/html/index.html (html).
+- The user's local documents include ~/Documents/superwhisper/recordings/1763377770/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1763377867/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1763378022/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764407034/meta.json (json).
+- The user's local downloads include ~/Downloads/Personal/Travel/Groups-Practice Session cum Tournament-7th Dec.pdf (pdf).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764415406/meta.json (json).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/104 L & L Agreement (2) - Alefiya.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Mrs Bhagat  Alefiya Leave and Lincnce.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/husain_bhagat_c671472cc2_product_foundations_cohort_GX_FOREVER_pay_RlvUub1u7R3Sdq_4c9f0e264c.pdf (pdf).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764571456/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764571771/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764571779/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764575004/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764586094/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764586444/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764586982/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764588309/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764588404/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764658185/meta.json (json).
+- The user's local downloads include ~/Downloads/Personal/Travel/7 Dec - Schedule.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Travel/7 Dec - Schedule (1).pdf (pdf).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764775068/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764857209/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1764857273/meta.json (json).
+- The user's local downloads include ~/Downloads/Personal/Finance/4920c17e-0715-41f0-9825-3d54d9d0456f.pdf (pdf).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Places.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Books.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Events.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Meetings.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Podcasts.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Games.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Movies.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Posts.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Products.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Shows.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Clippings.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Journal.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Board games.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Projects.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Companies.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Albums.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Trips.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Podcast episodes.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/People.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Evergreen.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Categories/Recipes.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Project Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Place Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Quote Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Stock Trade Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Clipping Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/People Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Product Type Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Meeting Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Monthly Note Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Video Game Genre Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Show Episode Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Job Interview Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Event Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Music Genre Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Author Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Video Game Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Restaurant Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Email Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Podcast Episode Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Actor Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Post Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Movie Genre Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Book Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Food Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Meetings List Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Game Studio Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Journal Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Meeting Type Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Evergreen Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Contact Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Show Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Album Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Director Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Podcast Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Place Type Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Coffee Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Real Estate Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Company Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/App Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Recipe Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Musician Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Genre Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Hosting Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Product Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/City Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Movie Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Daily Note Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Meditation Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Conference Session Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Trip Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Conference Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Templates/Board Game Template.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Notes/Evergreen notes turn ideas into objects that you can manipulate.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Notes/2023-09-12 Meeting with Steph.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Notes/2023 Japan Trip.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Notes/Minimal Theme.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Notes/Product usage analysis.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Readme.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Daily/2023-09-30.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Daily/2023-09-12.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Out of Control.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Parks.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Paul Chambers.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/The Machine Stops.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Catan.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/The Legend of Zelda Breath of the Wild.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Jazz.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Well Made 145 Kevin Kelly.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Bass on Top.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Kevin Kelly.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Blade Runner.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Obsidian.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Kyoto.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Fushimi Inari.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Brown butter nectarine tart.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Well Made.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Sci-fi.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Futurama.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/References/Steph Ango.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/LICENSE.
+- The user's local documents include ~/Documents/kepano-obsidian-main/Clippings/In good hands.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Clippings/Buy wisely.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Clippings/68 Bits of Unsolicited Advice.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/TPM transition.pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Finance/Complaint Swiggy HDFC.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/Fy25 Quarterly Review Template.pdf (pdf).
+- The user's local documents include ~/Documents/superwhisper/recordings/1765878043/meta.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/AOR Template Final Checklist.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/Collaboration Template.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE EInvoicing Impact Assessment Report.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/Leadership OKRs Pre-read.pdf (pdf).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766651921/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766652204/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766652356/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766652847/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653023/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653071/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653155/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653176/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653233/meta.json (json).
+- User uses the omi application for screen and audio recording.
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653375/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653451/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653491/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653542/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653592/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766653705/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766655562/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766734662/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766734908/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1766735086/meta.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/Schemas & Mappings/Invoice 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Schemas & Mappings/GETS CORE Schema.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Italy/Italy_E-Invoice_Schema_Complete_Automated.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Schemas & Mappings/KSeF_Comprehensive_Field_Data_Dictionary.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Spain/Spain_Facturae_Complete_Schema.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Architecture & Platform/Role vs Permission Table.md (md).
+- The user's local documents include ~/Documents/kepano-obsidian-main/Daily/2026-01-01.md (md).
+- The user's local documents include ~/Documents/superwhisper/recordings/1767447093/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1767447171/meta.json (json).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Italy/Italy_E-Invoice_Schema_Complete_Automated (1).md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/Beyond Browser Event Flow.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/Codenex document (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/PRDs HLDs LLDs URDs/Codenex Speaker Clarifications.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain's OKR Q1 FY26.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/France/France_E-Invoice_API_Documentation 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_PINT_Schema_Complete_Exhaustive.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/MALAYSIA_TIN_VALIDATION_SPECS 1 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_E-Invoice_GETS_Mapping_Updated_v2.md (md).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/LEASE AGREEMENT .pdf (pdf).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/RENEWAL_OF_LEASE_DEED_REVISED.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/OKR - Husain.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/AOR - Husain.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/CFC - Product.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/Q1 OKR Review meeting - Jan2026 1.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/AOR Template.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Schemas & Mappings/GETS_CORE_SCHEMA_v3.1_CLEAN.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Schemas & Mappings/GETS_v3.1_GAPS_AND_RECOMMENDATIONS.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_Transaction_Type_Combinations 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Schemas & Mappings/GETS_CORE_SCHEMA_v3.2_CLEAN.md (md).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/GDPR Audit Report.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/Complyance Inc Board Approval.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/Complyance_Inc_2024.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/NEW Incorporation certificate.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/Compliance_Technical_Documentation.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/270001.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/Multi-Factor Authentication Documentation 2 (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/Service Provider Accreditation Document 1 (1).pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/English docs/Complyance_Encryption and Key Management Policy.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.0_PROPER.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Hiring - JDs/VDI - JD 3.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/ca-partner-data-collection-brief.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_PROPER 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_PROPER 2.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/KSA/KSA_GETS_Mapping_v2.0_PROPER.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/Malaysia_GETS_Mapping_v2.0_PROPER.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/KSA/KSA_GETS_Mapping_v2.0_PROPER 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/KSA/KSA_GETS_Mapping_v2.0_PROPER 2.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/KSA/KSA_GETS_Mapping_v2.0_PROPER 3.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/Malaysia_GETS_Mapping_v2.0_PROPER 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/KSA/KSA_GETS_Mapping_v2.0_PROPER 4.md (md).
+- The user's local downloads include ~/Downloads/To Review/Markdown to PDF (2).pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/Malaysia_GETS_Mapping_v2.0_PROPER 3.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/Malaysia_GETS_Mapping_v2.0_PROPER 2.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/Einvoice Guidelines - UAE 23.02.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/Tax Invoice and CL Mandatory fields - 23.02 .pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_PINT_Schema_Complete_Exhaustive 7.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_PROPER 3.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_SME_Review.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Malaysia/Malaysia_GETS_Mapping_v2.0_PROPER 3 (1).md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_PROPER 4.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_PROPER 5.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/OKRs Reviews & Transitions/Transition Document Husain 1.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/Complyance Inc. Incorporation certificate_French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/Complyance Inc Board Approval_ French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/Complyance Encryption and Key Management Policy_French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/Certificate of Registration_French .pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/Complyance_Inc_2024 - Federa Tax Return Filings_French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/GDPR Audit Report_French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/Multi-Factor Authentication Documentation_French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/E-Invoicing_Technical_Flow_French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Archive - Old Projects/Archive/French docs/Invoice_Data_Transmission_Compliance_French.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Germany/Germany_GETS_Mapping_v3.0_PROPER.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Germany/Germany_GETS_Mapping_v3.0_PROPER 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_PROPER 6.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Germany/Germany_GETS_Mapping_v3.0_PROPER 2.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/Pricing_and_Commercial_Terms.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_PROPER 7.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/Complyance SOC 2 Type 2 Report 2024.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/GDPR Audit Report 1.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Peppol/Peppol Complyance SP aggrement.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/ATC PROFILE.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/PRODUCT CATALOUGE.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/Andhra Trading Corporation Website Proposal.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Germany/Germany_GETS_Mapping_v3.0_PROPER 3.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Belgium/Belgium_GETS_Mapping_v1.0_PROPER 1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v4.1_SME_Review_ROUND2.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Belgium/Belgium_GETS_Mapping_v1.0_PROPER 2.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/GETS_REGIONAL_EU_v1.0.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/README.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/CHANGELOG.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/GETS_MAPPING_QUICKSTART.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/GETS_CORE_SCHEMA_v2.1.0_DISAMBIGUATED.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/GETS_REGIONAL_PEPPOL_v1.0.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/GETS_CORE_FIELDS_v2.1.0.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/v2.1.0/GETS_FIELD_INDEX.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/Belgium/Belgium_GETS_Mapping_v1.0_PROPER 3.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Salary_Negotiation_Prep.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain_Bhagat_LinkedIn_X_Strategy.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Employment/Husain_Bhagat_LinkedIn_X_Strategy (1).md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/Clients & Proposals/Changelog template.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v2.0.1.md (md).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/Clarification on Storage Obligations MD 243 Article 11 30Mar2026.pdf (pdf).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v2.0.1 1.md (md).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201430/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201440/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201645/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201651/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201654/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201657/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201658/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201660/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201704/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775201713/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202538/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202760/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202763/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202821/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202845/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202853/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202857/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775202971/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203031/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203056/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/modes/voice to text.json (json).
+- The user's local documents include ~/Documents/superwhisper/settings/settings.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203142/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203150/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203157/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203169/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203181/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203265/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203277/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203289/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203316/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203337/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203343/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203353/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203404/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203741/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203843/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775203849/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775204034/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775204123/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775204485/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775204813/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775204901/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775205165/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775213236/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775214178/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775214470/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775218392/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775222419/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775222431/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775222722/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775223251/meta.json (json).
+- The user's local documents include ~/Documents/superwhisper/recordings/1775223457/meta.json (json).
+- The user's local downloads include ~/Downloads/Personal/Identity & Legal/Privileged Communication.Hussain.pdf (pdf).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/requirements.txt (txt).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/pyproject.toml (toml).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/SETUP_GUIDE.md (md).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/get_token.py (py).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/get_token_v2.py (py).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/get_token_v3.py (py).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/refresh_token.txt (txt).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/code.txt (txt).
+- The user's local downloads include ~/Downloads/Dev/Code & Repos/teams-mcp-server/teams_mcp.py (py).
+- The user's local downloads include ~/Downloads/Work - Complyance/E-Invoicing by Country/UAE/UAE_GETS_Mapping_v2.0.1 2.md (md).
+- A recently modified local file is named pim.db.
+- A recently modified local file is named Claude.app.
+- A recently modified local file is named Wispr Flow.app.
+- A recently modified local file is named Conductor.app.
+- A recently modified local file is named Fathom.app.
+- A recently modified local file is named omi.app.
+- A recently modified local file is named omi.dmg.
+- A recently modified local file is named NoteStore.sqlite-shm.
+- The user's local files show active work in TypeScript.
+- The user's local files show active work in JavaScript.
+- The user works on a local project named ui.
+- The user works on a local project named typescript-config.
+- The user works on a local project named types.
+- The user works on a local project named styles.
+- The user works on a local project named Monorepo-POC.
+- The user works on a local project named mongodb-connection.
+- The user works on a local project named eslint-config.
+- The user works on a local project named encore-poc.
+- The user works on a local project named diverce.
+- The user works on a local project named complyance-frontend.
+- The user works on a local project named teams-mcp-server.
+- The user works on a local project named Pictures.
+- The user has 10,075 local files indexed across their machine.
+
+## How to use this
+This export was generated by Omi and can be refreshed at any time.
